@@ -17,5 +17,4 @@ hist(mtcars$mpg)
 <<<<<<< HEAD
 plot(mtcars$mpg ~ mtcars$wt)
 cor(mtcars$mpg, mtcars$wt)
-=======
-plot(mtcars$mpg ~ mtcars$wt)
+
