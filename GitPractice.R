@@ -19,4 +19,3 @@ plot(mtcars$mpg ~ mtcars$wt)
 cor(mtcars$mpg, mtcars$wt)
 =======
 plot(mtcars$mpg ~ mtcars$wt)
->>>>>>> 8548b648f6a818af896edb3880d04983e35fd023
